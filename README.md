@@ -2,9 +2,11 @@
 
 ### [Microsoft ML for beginners](https://github.com/microsoft/ML-For-Beginners)
  
- #### [My fork of above](https://github.com/gspro/ML-For-Beginners)
+#### [My fork of ml for beginners](https://github.com/gspro/ML-For-Beginners)
 
-###[Microsoft Data Science for beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [Microsoft Data Science for beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+
+#### [My fork of ds for beginners](https://github.com/gspro/Data-Science-For-Beginners)
   
 
 [Geron book](https://github.com/ageron/handson-ml2)
